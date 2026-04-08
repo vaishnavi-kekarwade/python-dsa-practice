@@ -8,9 +8,9 @@ at Boffins Academy.
 
 ## Topics Covered
 - Variables, data types, loops, functions
-- Pandas — data loading, cleaning, filtering
-- NumPy — arrays and operations
-- Matplotlib — basic visualisations
+- Pandas      -data loading, cleaning, filtering
+- NumPy       -arrays and operations
+- Matplotlib  - basic visualisations
 - Working with real datasets
 
 ## Tools
