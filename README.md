@@ -1,15 +1,15 @@
-# 🧠 Python DSA Practice
+#  Python DSA Practice
 
 Daily data structures and algorithms practice in Python. I solve one problem at a time, keep my solution here, and write down what I learned.
 
-## 📂 Structure
+##  Structure
 - `arrays/`
 - `strings/`
 - `hashmaps/`
 - `sorting/`
 - `recursion/`
 
-## ✅ Problems Solved
+##  Problems Solved
 
 | # | Problem | Topic | Difficulty | Solution |
 |---|---|---|---|---|
