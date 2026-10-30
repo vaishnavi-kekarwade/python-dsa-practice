@@ -1,22 +1,28 @@
+# 🧠 Python DSA Practice
 
-This is my first Git Repository.
-<br>
-author - Vaishnavi Kekarwade
+Daily data structures and algorithms practice in Python. I solve one problem at a time, keep my solution here, and write down what I learned.
 
-Practice scripts from my Data Science training 
-at Boffins Academy.
+## 📂 Structure
+- `arrays/`
+- `strings/`
+- `hashmaps/`
+- `sorting/`
+- `recursion/`
 
-## Topics Covered
-- Variables, data types, loops, functions
-- Pandas      -data loading, cleaning, filtering
-- NumPy       -arrays and operations
-- Matplotlib  - basic visualisations
-- Working with real datasets
+## ✅ Problems Solved
 
-## Tools
-- Python 3
-- Jupyter Notebook
-- Pandas, NumPy, Matplotlib
+| # | Problem | Topic | Difficulty | Solution |
+|---|---|---|---|---|
+| 1 | Two Sum | Hash map | Easy | [two_sum.py](./hashmaps/two_sum.py) |
 
-## About
-Aspiring Data Analyst | Maharashtra
+(I add a row after each problem I solve.)
+
+## 📝 How I Practice
+- One easy problem a day, then medium ones once I'm comfortable
+- First I try on my own, then I compare with other solutions
+- Each file has a short comment on the idea and the time complexity
+
+## 🔗 Related Repositories
+- [python-learning](https://github.com/vaishnavi-kekarwade/python-learning)
+- [SQL-Learning](https://github.com/vaishnavi-kekarwade/SQL-Learning)
+- [Project-Data-Analytics](https://github.com/vaishnavi-kekarwade/Project-Data-Analytics)
