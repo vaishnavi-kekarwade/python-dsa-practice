@@ -26,3 +26,5 @@ Daily data structures and algorithms practice in Python. I solve one problem at 
 - [python-learning](https://github.com/vaishnavi-kekarwade/python-learning)
 - [SQL-Learning](https://github.com/vaishnavi-kekarwade/SQL-Learning)
 - [Project-Data-Analytics](https://github.com/vaishnavi-kekarwade/Project-Data-Analytics)
+
+| 1 | Valid Palindrome | Strings | Easy | [valid_palindrome.py](./strings/valid_palindrome.py) |
